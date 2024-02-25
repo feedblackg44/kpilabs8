@@ -1,0 +1,5 @@
+from .accelerometer_schema import AccelerometerSchema
+from .aggregated_data_schema import AggregatedDataSchema
+from .aggregated_temperature_schema import AggregatedTemperatureSchema
+from .gps_schema import GpsSchema
+from .temperature_schema import TemperatureSchema
