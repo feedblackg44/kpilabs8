@@ -1,0 +1,1 @@
+from .multi_expert_problem import solve as solve_multi_expert_problem

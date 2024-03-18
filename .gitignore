@@ -1,5 +1,7 @@
 ﻿*.css.map
 *.docx
+*.txt
+*.xlsx
 *.tmp
 *.db
 *.mp4
