@@ -8,4 +8,4 @@ from .gps import Gps
 class AggregatedTemperature:
     temperature: Temperature
     gps: Gps
-    time: datetime
+    timestamp: datetime

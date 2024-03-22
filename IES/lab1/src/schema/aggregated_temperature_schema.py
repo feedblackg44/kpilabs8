@@ -6,4 +6,4 @@ from .gps_schema import GpsSchema
 class AggregatedTemperatureSchema(Schema):
     temperature = fields.Nested(TemperatureSchema)
     gps = fields.Nested(GpsSchema)
-    time = fields.DateTime('iso')
+    timestamp = fields.DateTime('iso')

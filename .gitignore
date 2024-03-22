@@ -6,6 +6,8 @@
 *.db
 *.mp4
 
+!**/requirements.txt
+
 **/*.env
 
 **/node_modules/
